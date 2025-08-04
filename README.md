@@ -22,8 +22,7 @@ Frontend Mentor: [Challenge link]([https://www.frontendmentor.io/challenges/qr-c
 ### Screenshot
 
 ![](./screenshot.jpg)
-
-
+<img width="2560" height="1354" alt="{EA439462-FCD4-41F6-8B3E-53741DDE7F4A}" src="https://github.com/user-attachments/assets/4953b803-9da0-4fc8-9504-42e98eb5349f" />
 
 
 ### Links
