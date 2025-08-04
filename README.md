@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -17,7 +17,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### The challenge
 
-Frontend Mentor: [Challenge link](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
+Frontend Mentor: [Challenge link]([https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H])
 
 ### Screenshot
 
@@ -28,8 +28,8 @@ Frontend Mentor: [Challenge link](https://www.frontendmentor.io/challenges/recip
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/ShadowZarina/Frontend-Mentor_Projects/tree/main/Recipe%20Page)
-- Live Site URL: [GitHub Pages](https://shadowzarina.github.io/fem-recipe-page/)
+- Solution URL: [GitHub](https://github.com/ShadowZarina/fem-qr-code-component)
+- Live Site URL: [GitHub Pages](https://shadowzarina.github.io/fem-qr-code-component/)
 
 ## My process
 
